@@ -32,7 +32,6 @@
 
 ## 聯絡我
 
-LineID：deviljude
-CellPhone：0966220703
-Mail：sausage760703@gmail.com
-
++ Mail：sausage760703@gmail.com
++ LineID：deviljude
++ CellPhone：0966220703
