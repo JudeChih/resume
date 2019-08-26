@@ -28,7 +28,7 @@
 ## 相關連結
 
 遇到問題會上網找答案或是問人，並且記錄在gitbook上
-* https://legacy.gitbook.com/@judechih/dashboard
++ https://legacy.gitbook.com/@judechih/dashboard
 
 ## 聯絡我
 
