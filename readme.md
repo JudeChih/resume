@@ -4,22 +4,22 @@
 
 ## 服務
 
-切版(固定、RWD都可以)
-資料庫串接
-API撈值
-前後台架設
-網站前期規劃(ER圖、prototype、flow chart、functional map)
++ 切版(固定、RWD都可以)
++ 資料庫串接
++ API撈值
++ 前後台架設
++ 網站前期規劃(ER圖、prototype、flow chart、functional map)
 
 ## 技能
 
-前端：HTML5、CSS3、JavaScript、jQuery、SASS
-後端技能：PHP
-資料庫：MySQL
-開發工具：SublimeText、NetBeans
-版本控制：Git、GitLab(會架設)
++ 前端：HTML5、CSS3、JavaScript、jQuery、SASS
++ 後端技能：PHP
++ 資料庫：MySQL
++ 開發工具：SublimeText、NetBeans
++ 版本控制：Git、GitLab(會架設)
 
 ## 框架
 
-前端：Vue.js
-後端：Laravel
++ 前端：Vue.js
++ 後端：Laravel
 
