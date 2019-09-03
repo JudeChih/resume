@@ -35,5 +35,3 @@
 + Mail：sausage760703@gmail.com
 + LineID：deviljude
 + CellPhone：0966220703
-
-<!-- <img src="./image/book.png" width = "300" height = "200" alt="图片名称" align=center /> -->
