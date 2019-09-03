@@ -11,6 +11,8 @@
 + API撈值
 + 前後台架設
 + 網站前期規劃(ER圖、prototype、flow chart、functional map)
++ 後端重構
++ Vue的優化
 
 ## 技能
 
